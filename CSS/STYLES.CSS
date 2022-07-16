@@ -53,6 +53,8 @@ a{
 .mountain{
     padding-top: 100px;
     margin-bottom: 0%;
+    position:relative;
+    top:4px;
 }
 #dp{
     height: 90px;
