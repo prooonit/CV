@@ -6,11 +6,13 @@ body{
     color: #40514e;
 }
 h1{
-    margin:100px auto 0 auto;
+    margin:50px auto 0 auto;
     font-family: 'sacramento', sans-serif;
     font-size: 5.625rem;
     color: #576F72;
     line-height: 1.6;
+    position: relative;
+    top: 40px;
 }
 h2{
     font-family: 'montserrat', sans-serif;
@@ -126,6 +128,12 @@ a:hover{
     font-family: 'montserrat', sans-serif;
     
 }
+.top-container h2 {
+    margin: 15px;
+    position: relative;
+    top: 50px;
+
+  }
 .skills{
     margin-top: 80px
 }
